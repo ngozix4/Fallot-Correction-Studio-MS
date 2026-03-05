@@ -43,3 +43,4 @@ app-example
 /android
 eas.json
 app.json
+.env
